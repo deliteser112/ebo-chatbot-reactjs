@@ -26,8 +26,8 @@ const MessageTimestamp = styled(Typography)`
 const Message = ({ message }) => {
   const isUser = message.sender === 'user';
   const avatarUrl = isUser
-    ? 'https://ui-avatars.com/api/?name=US&background=random'
-    : 'https://ui-avatars.com/api/?name=BO&background=random';
+    ? 'https://mui.com/static/images/avatar/1.jpg'
+    : 'https://readwrite.com/wp-content/uploads/2023/06/Screenshot-2023-06-22-at-9.35.28-AM.jpg';
 
   return (
     <MessageContainer isUser={isUser}>

@@ -1,4 +1,4 @@
-### Chatbot Web Application - EBO
+## Chatbot Web Application - EBO
 
 This project is a React-based chatbot web application that interacts with the Wit.ai Natural Language Processing (NLP) engine. It allows users to send messages and receive intelligent responses from the bot based on the Wit.ai model's understanding.
 

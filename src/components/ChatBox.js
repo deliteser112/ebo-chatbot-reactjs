@@ -148,7 +148,7 @@ const ChatBox = () => {
               <TypingIndicator>
                 <Avatar
                   alt="Bot"
-                  src="https://ui-avatars.com/api/?name=BO&background=random"
+                  src="https://readwrite.com/wp-content/uploads/2023/06/Screenshot-2023-06-22-at-9.35.28-AM.jpg"
                   sx={{ marginRight: "8px" }}
                 />
                 <Typography variant="body1" sx={{ color: "#757575" }}>
